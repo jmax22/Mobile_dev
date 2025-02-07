@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+A new Flutter project. This project was used to learn new concepts within the flutter framework. Added different pages / files / images and working button to display a rolled diced to the screen with what random number was rolled by the button.
 
 ## Getting Started
 
