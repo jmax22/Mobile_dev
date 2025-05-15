@@ -1,0 +1,2 @@
+C:/Users/maxwe/Desktop/mobile_app/Mobile_dev/quiz_app/android/app/.cxx/Debug/4g1n5h11/x86/CMakeFiles/edit_cache.dir
+C:/Users/maxwe/Desktop/mobile_app/Mobile_dev/quiz_app/android/app/.cxx/Debug/4g1n5h11/x86/CMakeFiles/rebuild_cache.dir
